@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamGoyal089/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/ShivamGoyal089/DSA/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/ShivamGoyal089/DSA/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShivamGoyal089/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamGoyal089/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/ShivamGoyal089/DSA/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/ShivamGoyal089/DSA/tree/master/0696-count-binary-substrings) |
 ## String Matching
 |  |
 | ------- |
