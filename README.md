@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamGoyal089/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/ShivamGoyal089/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/ShivamGoyal089/DSA/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/ShivamGoyal089/DSA/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamGoyal089/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/ShivamGoyal089/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/ShivamGoyal089/DSA/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/ShivamGoyal089/DSA/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -43,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3870-count-commas-in-range](https://github.com/ShivamGoyal089/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ShivamGoyal089/DSA/tree/master/3871-count-commas-in-range-ii) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ShivamGoyal089/DSA/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ShivamGoyal089/DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
