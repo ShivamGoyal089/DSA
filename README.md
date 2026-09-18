@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShivamGoyal089/DSA/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/ShivamGoyal089/DSA/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShivamGoyal089/DSA/tree/master/0012-integer-to-roman) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ShivamGoyal089/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
