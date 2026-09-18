@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamGoyal089/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ShivamGoyal089/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/ShivamGoyal089/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/ShivamGoyal089/DSA/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/ShivamGoyal089/DSA/tree/master/0844-backspace-string-compare) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShivamGoyal089/DSA/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/ShivamGoyal089/DSA/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/ShivamGoyal089/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -63,8 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShivamGoyal089/DSA/tree/master/0012-integer-to-roman) |
+| [0349-intersection-of-two-arrays](https://github.com/ShivamGoyal089/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ShivamGoyal089/DSA/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/ShivamGoyal089/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ShivamGoyal089/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
