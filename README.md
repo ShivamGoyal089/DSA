@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ShivamGoyal089/DSA/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/ShivamGoyal089/DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamGoyal089/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0739-daily-temperatures](https://github.com/ShivamGoyal089/DSA/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ShivamGoyal089/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ShivamGoyal089/DSA/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivamGoyal089/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamGoyal089/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ShivamGoyal089/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
