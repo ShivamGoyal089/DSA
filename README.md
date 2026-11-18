@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ShivamGoyal089/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/ShivamGoyal089/DSA/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/ShivamGoyal089/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/ShivamGoyal089/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ShivamGoyal089/DSA/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ShivamGoyal089/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
